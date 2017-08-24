@@ -16,7 +16,13 @@ public class Variables1 {
 
 		numero2 = (pi + numero3) / 2;
 
+		//numero2 = numero2 + numero1;
+		numero2 += numero1
+
+		System.out.println(numero1);
 		System.out.println(numero2);
+		System.out.println(Math.squart(numero2++));
+
 
 	}
 

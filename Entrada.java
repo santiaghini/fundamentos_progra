@@ -9,7 +9,7 @@ public class Entrada {
 
 		nombre = stdIn.nextLine();
 
-		System.out.println("qué onda comostas" + nombre);
+		System.out.println("qué onda comostas " + nombre);
 
 	}
 }
