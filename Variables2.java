@@ -7,11 +7,15 @@ public class Variables2 {
 		inicialNombre = 'S';
 		inicialApellido = 'H';
 
-		codigoControl = '\n';
+		char codigoControl = '\n';
+
+		String texto = "origin  master";
 
 		System.out.println("Hola " + inicialNombre);
 		System.out.println("Código:  " + codigoControl);
 		System.out.println("\"Hola de nuevo \r" + inicialApellido);
+
+		System.out.println("El caracter en 5 es \"" + texto.charAt(5) + "\"");
 
 
 
