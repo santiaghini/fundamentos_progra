@@ -1,5 +1,5 @@
 /*
-Nuevo ejeplo del uso
+Nuevo ejemplo del uso
 de métodos
 Por Santiago Hernández
 */
